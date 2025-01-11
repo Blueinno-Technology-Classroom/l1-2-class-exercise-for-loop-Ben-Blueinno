@@ -39,5 +39,30 @@ Q6:
 '''
 
 # TODO: Write your code here
+for i in range(5):
+    print('*'*5)
+##################################################
+'''
+Q7:
+'''
 
+# TODO: Write your code here
+for i in range(5):
+    print('*'*i)
+##################################################
+'''
+Q8:
+'''
+
+# TODO: Write your code here
+for i in range(6):
+    print('*'*(6-i))
+##################################################
+'''
+Q9:
+'''
+
+# TODO: Write your code here
+for i in range(1, 6):
+    print(f'{i}'*i)
 ##################################################
